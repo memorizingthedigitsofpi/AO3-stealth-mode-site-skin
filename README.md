@@ -1,4 +1,4 @@
-# AO3-stealth-mode-site-skin
+# Stealth Mode AO3 site skin
 makes AO3 look like the New York Times
 
 # CREATING A NEW SITE SKIN
