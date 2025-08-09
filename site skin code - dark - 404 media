@@ -583,9 +583,12 @@ a.tag {
   border-bottom: 15px solid #191919;
 }
 
-#dashboard.own a {
+#dashboard.own a,
+#dashboard a,
+#dashboard span {
   color: #bdbdbd;
 }
+
 
 #dashboard .current,
 #dashboard.own a:hover {
