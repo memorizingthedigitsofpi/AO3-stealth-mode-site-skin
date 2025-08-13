@@ -1,6 +1,14 @@
 # Stealth Mode AO3 site skin
 makes AO3 look like the New York Times
 
+NOTE: the follow features have been altered/removed:
+1. You can't click on the header to return to the homepage. That image is just an image, not a link.
+2. The button next to the search input is gone, so you need to press enter/go to search instead of clicking/tapping on the button
+3. all icons are gone - user icons, fic info icons, site skin icons etc.
+4. When you open up a fic, the info at the top has been removed. The page starts at the fic title.
+
+
+
 # CREATING A NEW SITE SKIN
 
 In order to create a site skin, you need to have an AO3 account and you need to be logged in.
